@@ -23,6 +23,7 @@ jobs:
           git remote add wikiwiki https://github.com/nahum-mendoza/wiki.wiki.git
           git config user.name github-actions
           git config user.email github-actions@github.com
+          git subtree pull --prefix docs wiki master --squash --message="Merge wiki updates into docs."
           git subtree push --prefix docs wikiwiki master
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
