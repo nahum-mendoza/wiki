@@ -24,7 +24,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
       - run: |
-          git remote add wikiwiki https://github.com/${{GITHUB_REPOSITORY}}.wiki.git
+          git remote add wikiwiki https://github.com/$GITHUB_REPOSITORY.wiki.git
           git push wikiwiki --delete master
           git subtree push --prefix docs wikiwiki master
       # Runs a set of commands using the runners shell
