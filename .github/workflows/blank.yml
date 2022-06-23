@@ -23,12 +23,10 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
       - run: |
           git remote add wikiwiki https://github.com/nahum-mendoza/wiki.wiki.git
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          # git config user.name github-actions
+          # git config user.email github-actions@github.com
           git push wikiwiki --delete master
           git subtree push --prefix docs wikiwiki master
       # Runs a set of commands using the runners shell
