@@ -5,6 +5,10 @@ name: GithubWiki
 # Controls when the workflow will run
 on:
 
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -19,6 +23,8 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
       - run: |
           git remote add wikiwiki https://github.com/nahum-mendoza/wiki.wiki.git
           git config user.name github-actions
