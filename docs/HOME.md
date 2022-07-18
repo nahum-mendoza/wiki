@@ -16,6 +16,7 @@ Version 5
 ## Routes (The MD files are at root folder)
 
 - ![Deployed](./assets/done_small.png) [auth_token](#auth-token)
+- ![Deployed](./assets/done_small.png){style=" width:240px"}
 - 2
 - 2
 - 2
