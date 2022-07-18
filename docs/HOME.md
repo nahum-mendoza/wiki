@@ -16,7 +16,7 @@ Version 5
 ## Routes (The MD files are at root folder)
 
 - ![Deployed](./assets/done_small.png) [auth_token](#auth-token)
-- <img src="./assets/cheems.png" alt="CHEEMS" width="100" height="100" />
+- <img src="./assets/cheems.png" alt="CHEEMS" width="100" />
 - 2
 - 2
 - 2
