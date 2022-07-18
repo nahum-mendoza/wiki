@@ -16,7 +16,7 @@ Version 5
 ## Routes
 
 - ![Deployed](./assets/done_small.png) [auth_token](#auth-token)
-- ![Deployed](../assets/done_small.png) [auth_token](#auth-token)
+- ![Deployed](/assets/done_small.png) [auth_token](#auth-token)
 - 1
 - 1
 - 1
