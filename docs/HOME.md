@@ -3,7 +3,16 @@ Version 5
 
 ### Relevant docs
 
-- [Calendar.md](calendar.md)
 - [Calendar](calendar)
-- [API.md](/API.md)
-- [API](/API)
+
+### Sites
+
+- [Staging site](https://google.com.mx)
+
+# API
+
+<a name="routes_menu"></a>
+
+## Routes
+
+- ![Deployed](./assets/done_small.png) [auth_token](#auth-token)
