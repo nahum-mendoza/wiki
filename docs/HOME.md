@@ -3,5 +3,5 @@ Version 5
 
 ### Relevant docs
 
-- [Calendar](tech/calendar.md)
-- [API docs](tech/API.md)
+- [Calendar](calendar.md)
+- [API docs](/API.md)
