@@ -16,13 +16,6 @@ Version 5
 ## Routes
 
 - ![Deployed](./assets/done_small.png) [auth_token](#auth-token)
-- ![Deployed](../../blob/master/assets/done_small.png) [auth_token](#auth-token)
-- ![Deployed](../../master/assets/done_small.png) [auth_token](#auth-token)
-- ![Deployed](../../assets/done_small.png) [auth_token](#auth-token)
-- ![Deployed](.././assets/done_small.png) [auth_token](#auth-token)
-- [Deployed](.././assets/done_small.png) [auth_token](#auth-token)
-- ![Deployed][[/assets/done_small.png]][auth_token](#auth-token)
-- ![](/wiki/assets/done_small.png)
 - 2
 - 2
 - 2
