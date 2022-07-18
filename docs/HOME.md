@@ -16,3 +16,13 @@ Version 5
 ## Routes
 
 - ![Deployed](./assets/done_small.png) [auth_token](#auth-token)
+
+
+
+
+
+
+
+### POST /auth_token
+
+<a name="auth-token"></a>
