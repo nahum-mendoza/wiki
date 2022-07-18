@@ -17,7 +17,7 @@ Version 5
 
 - ![Deployed](./assets/done_small.png) [auth_token](#auth-token)
 - ![Deployed](../../blob/master/assets/done_small.png) [auth_token](#auth-token)
-- 1
+- ![Deployed](../../master/assets/done_small.png) [auth_token](#auth-token)
 - 1
 - 1
 - 2
