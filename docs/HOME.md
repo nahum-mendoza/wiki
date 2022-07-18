@@ -1,11 +1,11 @@
 HOME
 Version 5
 
-### Relevant docs
+### Link to other wiki page (There are no folders)
 
 - [Calendar](calendar)
 
-### Sites
+### Sites outside wiki
 
 - [Staging site](https://google.com.mx)
 
@@ -13,7 +13,7 @@ Version 5
 
 <a name="routes_menu"></a>
 
-## Routes
+## Routes (The MD files are at root folder)
 
 - ![Deployed](./assets/done_small.png) [auth_token](#auth-token)
 - 2
