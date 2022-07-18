@@ -3,5 +3,7 @@ Version 5
 
 ### Relevant docs
 
-- [Calendar](calendar.md)
-- [API docs](/API.md)
+- [Calendar.md](calendar.md)
+- [Calendar](calendar)
+- [API.md](/API.md)
+- [API](/API)
