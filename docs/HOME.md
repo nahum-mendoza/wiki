@@ -19,6 +19,7 @@ Version 5
 - ![Deployed](./assets/cheems.png){height=400px width=500px}
 - ![Deployed](./assets/cheems.png|width:100px)
 - ![alt text][cheems]{height=400px width=500px}
+- <img src="./assets/cheems.png" width="100" height="100" />
 - 2
 - 2
 - 2
